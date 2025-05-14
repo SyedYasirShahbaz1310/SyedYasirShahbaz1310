@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Power+BI+Developer+%7C+Python+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+PowerBI+Developer+%7C+Python+Enthusiast" />
 </p>
 
 ---
@@ -47,24 +47,16 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourname@example.com">
+  <a href="mailto:workwithyasir13@gmail.com">
     <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yasirshabaz" target="_blank">
+  <a href="https://github.com/SyedYasirShahbaz1310" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧩 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirshabaz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirshabaz&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 > 🧠 *"In God we trust. All others must bring data."* – W. Edwards Deming
 
