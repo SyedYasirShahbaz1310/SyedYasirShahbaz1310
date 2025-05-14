@@ -1,16 +1,54 @@
-## Hi there 👋
+### 👋 Hi there, I'm Yasir Shabaz
 
-<!--
-**SyedYasirShahbaz1310/SyedYasirShahbaz1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Python Developer | Power BI Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate data analyst with a love for turning raw data into clear, actionable insights. With strong analytical skills and a focus on storytelling through data, I specialize in helping businesses make smarter, data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack & Tools
+
+- 🐍 Python (NumPy, Pandas, Matplotlib, Seaborn)
+- 📊 Power BI (Dashboarding, DAX, Data Modeling)
+- 🛠️ SQL (Queries, Joins, Aggregation, Subqueries)
+- 📈 Excel (Pivot Tables, Formulas, Charts)
+- 🔍 Data Cleaning & Preprocessing
+- 📚 Jupyter Notebook / Google Colab
+- 📦 Git & GitHub for version control
+
+---
+
+### 📌 What I Do
+
+- 🔍 Perform exploratory data analysis (EDA)
+- 📊 Create impactful and interactive Power BI dashboards
+- 🧹 Clean and transform messy datasets into goldmines
+- 📉 Visualize trends, forecasts, and KPIs
+- 🧠 Solve real-world business problems with data
+
+---
+
+### 🚀 Recent Projects
+
+- 📊 **E-commerce Sales Dashboard** (Power BI)  
+  Analyzed product performance, customer behavior, and region-wise revenue trends.
+
+- 📉 **PSL Cricket Analysis** (Python & Pandas)  
+  In-depth analysis and predictions using historical PSL data including toss outcomes, man-of-the-match stats, and team performance.
+
+- 🏢 **Logistics & Fleet Optimization**  
+  Built performance reports and analytics dashboards for a US-based freight dispatching company.
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your real link)*
+- 📧 Email: yourname@example.com *(Replace with your email)*
+- 🌐 Portfolio (Coming Soon)
+
+---
+
+> "In God we trust. All others must bring data." – W. Edwards Deming
+
+Thanks for stopping by! Feel free to check out my repositories below 👇
